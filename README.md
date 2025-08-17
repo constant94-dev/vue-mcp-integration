@@ -73,8 +73,8 @@ npm run dev
 
 ## 🔗 관련 프로젝트
 
-- **[spring-boot-mcp-integration](../spring-boot-mcp-integration/)**: Spring Boot 백엔드 서버
-- **[public-data-mcp-server](../public-data-mcp-server/)**: 공공데이터 MCP 서버
+- **[spring-boot-mcp-integration](https://github.com/constant94-dev/spring-boot-mcp-integration)**: Spring Boot 백엔드 서버
+- **[public-data-mcp-server](https://github.com/constant94-dev/public-data-mcp-server)**: 공공데이터 MCP 서버
 
 ---
 
